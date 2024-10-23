@@ -109,6 +109,9 @@ Please refer to the PDF Documentation for more details about deployment strategi
 
 ## 📂 Additional Resources
 
-- FastAPI Documentation[https://fastapi.tiangolo.com/](https://fastapi.tiangolo.com/)
-- SQLAlchemy Documentation[https://docs.sqlalchemy.org/en/13/core/engines.html#database-urls](https://docs.sqlalchemy.org/en/13/core/engines.html#database-urls)
-- Pydantic Documentation[https://pydantic-docs.helpmanual.io/](https://pydantic-docs.helpmanual.io/)
+- [**FastAPI Documentation**](https://fastapi.tiangolo.com/)
+- [**SQLAlchemy Documentation**](https://docs.sqlalchemy.org/en/13/core/engines.html#database-urls)
+- [**Pydantic Documentation**](https://pydantic-docs.helpmanual.io/)
+- [**Docker Documentation**](https://docs.docker.com/)
+- [**Alembic Documentation**](https://alembic.sqlalchemy.org/)
+
